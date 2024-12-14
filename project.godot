@@ -72,3 +72,8 @@ pointing/ios/enable_button_y=false
 [rendering]
 
 renderer/rendering_method="gl_compatibility"
+
+[xogot]
+
+project/editorState=[]
+project/breakpoints={}
