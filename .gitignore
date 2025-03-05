@@ -1,5 +1,5 @@
 # Godot 4+ specific ignores
-.godot/editor
+.godot/
 
 # Mac-specific ignores
 **/.DS_Store
