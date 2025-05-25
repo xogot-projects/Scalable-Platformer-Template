@@ -49,6 +49,12 @@ jump={
 ]
 }
 
+[display]
+
+window/stretch/mode="canvas_items"
+window/stretch/aspect="keep_height"
+window/stretch/scale_mode="fractional"
+
 [input_devices]
 
 virtual_controller/ios/enable_controller=true
